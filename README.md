@@ -24,7 +24,7 @@ Le projet a été **évalué par un enseignant** et s’inscrit dans une approch
 ---
 
 ## 📂 Contenu du dépôt  
-- `code/` → scripts R (prétraitement, analyses, visualisations).  
+- [https://github.com/Fredi80505/alfred.bargo/blob/main/CodeR_Projet1.R] → scripts R (prétraitement, analyses, visualisations).  
 - `rapport/` → fichier LaTeX et PDF du rapport final.  
 - `data/` → données utilisées (si partageables).  
 
