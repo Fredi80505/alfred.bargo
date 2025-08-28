@@ -6,7 +6,7 @@ Portfolio IA engineer
 Ce dépôt contient un projet académique réalisé dans le cadre de mon **Master de recherche en Intelligence Artificielle** (M1), en **juin 2025**.  
 Le projet a été **évalué par un enseignant** et s’inscrit dans une approche scientifique, alliant analyse de données, modélisation et rigueur académique.  
 
----
+
 
 ## 🎯 Objectifs du projet  
 - Explorer et analyser un jeu de données complexe.  
